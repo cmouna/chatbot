@@ -1,5 +1,4 @@
 # Task 4 - Domain Expert Chatbot
-# Task 4 - Domain Expert Chatbot
 # 📚 ArXiv Expert Chatbot
 
 ## Overview
