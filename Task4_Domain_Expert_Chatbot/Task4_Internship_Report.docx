@@ -1,0 +1,33 @@
+Internship Report – Task 4: Domain Expert Chatbot
+Introduction
+The Domain Expert Chatbot is designed to answer questions within a specific knowledge domain, focusing on Artificial Intelligence and related Computer Science topics. The chatbot retrieves the most relevant information using semantic search techniques and presents responses through an interactive web application.
+Background
+Domain-specific chatbots are designed to provide accurate and relevant information within a specialized field. By limiting responses to a curated knowledge base, they can deliver focused and consistent answers to user queries.
+Learning Objectives
+•	Understand semantic search techniques.
+•	Build a domain-specific chatbot using Python.
+•	Develop an interactive web application with Streamlit.
+•	Explore sentence embeddings and similarity matching.
+•	Strengthen AI application development skills.
+Activities and Tasks
+•	Created a knowledge base containing AI-related concepts.
+•	Implemented semantic search using Sentence Transformers.
+•	Built a chatbot capable of retrieving relevant answers.
+•	Developed a user-friendly Streamlit interface.
+•	Tested the chatbot with multiple domain-specific questions.
+Skills and Competencies
+•	Python Programming
+•	Natural Language Processing
+•	Semantic Search
+•	Sentence Embeddings
+•	Streamlit Development
+•	Problem Solving
+Feedback and Evidence
+The chatbot successfully answered questions about Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, and Large Language Models by retrieving the most relevant information from the knowledge base.
+Challenges and Solutions
+One challenge was matching user queries with the correct knowledge base entries. This was addressed by using semantic similarity through Sentence Transformers, enabling the chatbot to return relevant responses even when questions were phrased differently.
+Outcomes and Impact
+The completed chatbot demonstrates how semantic search can be applied to build specialized AI assistants capable of answering questions within a defined domain. The project highlights practical applications of Natural Language Processing and vector-based retrieval techniques.
+Conclusion
+The Domain Expert Chatbot was successfully developed using Python, Streamlit, and Sentence Transformers. The project achieved its objective of providing accurate responses within a specialized knowledge domain while enhancing understanding of semantic search and AI application development.
+
